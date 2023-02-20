@@ -8,6 +8,11 @@ packages = [{include = "sql_analysis"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
+fastapi = "^0.92.0"
+sqlparser = "^0.0.9"
+networkx = "^3.0"
+asyncio = "^3.4.3"
+pydantic = "^1.10.5"
 
 
 [build-system]
