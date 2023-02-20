@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "sql-analysis"
+version = "0.1.0"
+description = ""
+authors = ["bk <codesage@protonmail.com>"]
+readme = "README.md"
+packages = [{include = "sql_analysis"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
