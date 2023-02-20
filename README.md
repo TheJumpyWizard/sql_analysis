@@ -4,7 +4,7 @@
 ### Installation
 To install SQL Analysis, clone the repository and install the required dependencies:
 
-1. git clone https://github.com/your-username/sql-analysis.git ```
+1. git clone https://github.com/your-username/sql-analysis.git
 2. cd sql-analysis
 3. pip install -r requirements.txt
 
